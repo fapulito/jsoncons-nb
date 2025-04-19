@@ -1,6 +1,7 @@
-# Notebooks using ``jsoncons`` and other libraries to manipulate data structures in Python
+# Serializable Dictionaries in Python
 
-# Serializable Dictionaries in Python 
+## Notebooks using ``jsoncons`` and other libraries to manipulate data structures in Python
+
 ## A Comprehensive Guide with Interactive Jupyter Notebooks 📖
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
