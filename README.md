@@ -6,9 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
 
-[![PyPI version](https://badge.fury.io/py/serial-json-nb.svg)](https://badge.fury.io/py/serial-json-nb)
-![GitHub Release](https://img.shields.io/github/v/release/:fapulito/:serial-json-nb)
-
 <!-- [![Build Status](https://travis-ci.org/your_username/your_repo.svg?branch=main)](https://travis-ci.org/your_username/your_repo) -->
 
 Welcome! This repository provides a comprehensive guide and practical examples for understanding and using serializable dictionaries in Python. Dictionaries are fundamental, and knowing how to effectively serialize (save/transmit) and deserialize (load/receive) them is a key skill for any Python developer.
