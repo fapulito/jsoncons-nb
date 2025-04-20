@@ -34,14 +34,14 @@ This guide covers everything from basic concepts to advanced techniques, perform
     1.  `1_Introduction_to_Serialization.ipynb`: Basics and common formats.
     2.  `2_Advanced_Serialization_Performance.ipynb`: Custom objects, performance, HDF5 comparison.
     3.  `3_Practical_Applications_Best_Practices.ipynb`: Real-world use, security, best practices.
-*   **(Optional) `serial-json` Package:** A companion utility package providing a simple CLI for JSON handling (see details below).
+*   **The `jsoncons` Package:** PyPi Package JSON Console utility | Simple CLI for JSON handling (see details below).
 
 ## 🚀 Getting Started
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/fapulito/serial-json-nb.git
-    cd serial-json-nb
+    git clone https://github.com/fapulito/jsoncons-nb.git
+    cd jsoncons-nb
     ```
 2.  **Set up a virtual environment (Recommended):**
     ```bash
