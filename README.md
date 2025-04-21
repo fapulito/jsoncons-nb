@@ -1,3 +1,5 @@
+![jsonscons-favi](https://github.com/user-attachments/assets/f40c0a43-9b4a-40e6-9b55-0a9093816db0)
+
 # Serializable Dictionaries in Python
 
 ## Notebooks using ``jsoncons`` and other libraries to manipulate data structures in Python
