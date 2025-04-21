@@ -1,6 +1,6 @@
 ![jsoncons-logo-1-1920px](https://github.com/user-attachments/assets/3fe3d90b-699e-40d6-bed9-eafa7f808169)
 
-# Serializable Dictionaries in Python
+# Dictionary Serialization in Python | Optimizing Data Structures
 
 ## Notebooks using ``jsoncons`` and other libraries to manipulate data structures in Python
 
