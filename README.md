@@ -1,4 +1,4 @@
-![jsonscons-favi](https://github.com/user-attachments/assets/f40c0a43-9b4a-40e6-9b55-0a9093816db0)
+![jsoncons-logo-1-1920px](https://github.com/user-attachments/assets/3fe3d90b-699e-40d6-bed9-eafa7f808169)
 
 # Serializable Dictionaries in Python
 
